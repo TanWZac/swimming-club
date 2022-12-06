@@ -1,3 +1,3 @@
 # The Edge Swimming Club
 
-Site :website: - https://the-edge-swimming-club.netlify.app/
+:globe_with_meridians: - https://the-edge-swimming-club.netlify.app/
